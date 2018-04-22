@@ -14,4 +14,6 @@ let obj = quotes[rnum]
 document.getElementById('quote').innerHTML = obj.quote;
 document.getElementById('author').innerHTML = obj.author;
 
-"Sans Regular", "Sans Regular", "Sans Regular",monospace,"Sans Regular"
+function goto(url){
+  window.location.href = url;
+}
