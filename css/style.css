@@ -33,6 +33,7 @@ a {
   margin: auto;
   text-decoration: none;
   color: inherit;
+  cursor: pointer;
 }
 
 a:hover {
